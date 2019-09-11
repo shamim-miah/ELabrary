@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">E-Labrary</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="header_name">A Good Book is Like a Good Friend</string>
+    <string name="option1">1st Semester</string>
+    <string name="option2">2nd Semester</string>
+    <string name="option3">3rd Semester</string>
+    <string name="option4">4th Semester</string>
+    <string name="option5">5th Semester</string>
+    <string name="option6">6th Semester</string>
+    <string name="option7">7th Semester</string>
+    <string name="option8">8th Semester</string>
+    <string name="option9">Syllabus</string>
+
+    <string-array name="bookshelf_1">
+
+        <item>The Complete Reference 4th Edition</item>
+        <item>Introduction to computers </item>
+        <item>Introductory Circuit Analysis</item>
+
+
+
+    </string-array>
+    
+    <string-array name="link_group_1">
+        <item>https://drive.google.com/file/d/1PBuNyz5xEXpmbccv1PyuVURNnBkiUn9J/view</item>
+        <item>https://www.google.com</item>
+    </string-array>
+
+    <string-array name="bookshelf_2">
+
+        <item>electronic-devices-9th-edition</item>
+        <item>Discrete_Mathematics_and_Its_Applications</item>
+
+    </string-array>
+
+    <string-array name="bookshelf_3">
+
+        <item>Computer Algorithms Sahni</item>
+        <item>Balagurusamy object oriented programming with c++</item>
+        <item>Modern-Digital-Electronics</item>
+        <item>Digital Systems,Principles and Applications</item>
+        <item>Signals and Systems</item>
+
+
+    </string-array>
+
+    <string-array name="bookshelf_4">
+        <item>8085 Microprocessor</item>
+        <item>Antenna theory</item>
+        <item>Assembly Language Programming and Organization of the IBM PC</item>
+        <item>Database System Concepts</item>
+
+
+    </string-array>
+
+    <string-array name="bookshelf_5">
+
+        <item>Computer Graphics Schaum Series</item>
+        <item>Computer Graphics C version</item>
+        <item>How to Program Java</item>
+        <item>Java The Complete Reference</item>
+        <item>Software Engineering</item>
+
+
+    </string-array>
+
+    <string-array name="bookshelf_6">
+
+        <item>Digital and Signal Processing</item>
+        <item>Head First Android Development</item>
+        <item>Modern Digital and Analog Communication</item>
+        <item>telecommunication-switching-systems-and-networks</item>
+
+
+    </string-array>
+
+    <string-array name="bookshelf_7">
+
+        <item>Digital and Signal Processing</item>
+        <item>Head First Android Development</item>
+        <item>Modern Digital and Analog Communication</item>
+        <item>telecommunication-switching-systems-and-networks</item>
+
+    </string-array>
+
+    <string-array name="bookshelf_8">
+
+        <item>Digital and Signal Processing</item>
+        <item>Head First Android Development</item>
+        <item>telecommunication-switching-systems-and-networks</item>
+
+    </string-array>
+</resources>
